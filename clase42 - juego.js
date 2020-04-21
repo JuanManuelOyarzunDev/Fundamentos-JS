@@ -127,7 +127,7 @@ class Juego {
   }
 
   ganoElJuego(){
-    swal('Platzi','Haz Ganado!!', 'success')
+    swal('Mi Amor','Haz Ganado!!', 'success')
     .then(this.inicializar())
   }
 
